@@ -24,7 +24,7 @@
 ![wrong_classified](images/wrong1.png)
 
 
-## Model 1
+## Model 2
 ![model](images/model2.png)
 
 ### Train with Adam optimizer
@@ -41,7 +41,7 @@
 ![wrong_classified](images/wrong2.png)
 
 
-## Model 1
+## Model 3
 ![model](images/model3.png)
 
 ### Train with Adam optimizer
