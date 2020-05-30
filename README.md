@@ -1,15 +1,15 @@
 # Algorithm_03
 
 ## Model
-### Model with 4 CNN layer
+**Model with 4 CNN layer**
 ![model](images/model.png)
 
 ### Train with Adam optimizer
-#### epoch is 5
+**epoch is 5**
 ![training](images/training.png)
 
 ### Test Accuracy
-#### Results
+**Results**
 |         | Accuracy |
 |:-------:|:--------:|
 | Model 1 |   97.36  |
