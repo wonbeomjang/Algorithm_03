@@ -10,7 +10,7 @@
 ## Model 1
 ![model](images/model1.png)
 
-### Train with Adam optimizer
+### Train with Adam optimizer and training loss
 ![train](images/train1.png)
 
 ### Test Accuracy
@@ -27,7 +27,7 @@
 ## Model 2
 ![model](images/model2.png)
 
-### Train with Adam optimizer
+### Train with Adam optimizer and training loss
 ![train](images/train2.png)
 
 ### Test Accuracy
@@ -44,7 +44,7 @@
 ## Model 3
 ![model](images/model3.png)
 
-### Train with Adam optimizer
+### Train with Adam optimizer and training loss
 ![train](images/train3.png)
 
 ### Test Accuracy
